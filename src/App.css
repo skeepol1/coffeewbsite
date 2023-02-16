@@ -457,6 +457,11 @@ box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.25);
   background-repeat: no-repeat;
   
  }
+ .testimony-left h2{
+  font-size: 50px;
+  font-weight: 400;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+ }
 
  .testimony-box1{
   /* margin-top: 12rem; */
@@ -571,6 +576,14 @@ bottom: 15%;
   text-align: center;
   margin-bottom: 3rem;
  }
+ .blog-head h3{
+font-size: 34px;
+font-family: 'Plus Jakarta Sans', sans-serif;
+font-weight: 700;
+ }
+ .blog-head p{
+  font-family: 'Poppins', sans-serif;
+ }
  .blog-border{
   height: 80%;
   width: 90%;
@@ -640,7 +653,7 @@ bottom: 15%;
  }
  .footer-left-div{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   /* flex-direction: column; */
   /* border: 2px solid blue; */
   height: 70%;
@@ -661,6 +674,15 @@ bottom: 15%;
   width: 50%;
   /* border: 2px solid red; */
   margin-top: 3rem;
+ }
+ .footer-right h3{
+  font-size: 44px;
+  font-weight: 900;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+
+ }
+ .footer-right p{
+  font-family: 'Poppins', sans-serif;
  }
  .footer-button1{
   background: #2E1D03;
@@ -690,11 +712,7 @@ bottom: 15%;
   margin-right: 3rem;
   /* justify-content: space-evenly; */
  }
- .footer-right h3{
-  font-size: 44px;
-  font-weight: 900;
-  /* line-height: 2; */
- }
+ 
  .footer-right p{
   line-height: 3;
   font-family: 'Poppins', sans-serif;
@@ -706,6 +724,9 @@ bottom: 15%;
   background-image: url(Asset/coffee\ patter\ 1.png);
   text-align: center;
   padding: 2rem 0px;
+ }
+ .lastdiv p{
+  font-family: 'Poppins', sans-serif;
  }
 
 

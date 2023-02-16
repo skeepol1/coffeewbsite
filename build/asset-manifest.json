@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.213b87b1.css",
+    "main.js": "/static/js/main.7b05eec9.js",
+    "static/media/coffee1.png": "/static/media/coffee1.d1eeeae7505c691d4ba7.png",
+    "static/media/coffee patter 2.png": "/static/media/coffee patter 2.8e77f0f0443fd60fda1e.png",
+    "static/media/coffee patter 1.png": "/static/media/coffee patter 1.4579d6912a8ff1443fdb.png",
+    "static/media/coffecupsaucer.png": "/static/media/coffecupsaucer.525e374837f77ca845a1.png",
+    "static/media/Rectangle1.png": "/static/media/Rectangle1.a53e9d9b4fae07891cbb.png",
+    "static/media/Rectangle3.png": "/static/media/Rectangle3.a4a4f26007a04d46cd8f.png",
+    "static/media/Rectangle2.png": "/static/media/Rectangle2.cfb661e39631373bb7b9.png",
+    "static/media/coffeebean1.png": "/static/media/coffeebean1.76b099d82cb7941bec32.png",
+    "static/media/coffee bean lot 1.png": "/static/media/coffee bean lot 1.f49aaa2a979454df7389.png",
+    "static/media/image1.png": "/static/media/image1.36918fef45c74e446255.png",
+    "static/media/coffesaucerbrown.png": "/static/media/coffesaucerbrown.fdf2e6ee4633600960a2.png",
+    "static/media/whitesugar.png": "/static/media/whitesugar.e1b6092de81e8733ea87.png",
+    "index.html": "/index.html",
+    "main.213b87b1.css.map": "/static/css/main.213b87b1.css.map",
+    "main.7b05eec9.js.map": "/static/js/main.7b05eec9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.213b87b1.css",
+    "static/js/main.7b05eec9.js"
+  ]
+}
